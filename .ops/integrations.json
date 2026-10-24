@@ -1,0 +1,24 @@
+{
+  "integrations": [
+    "crewai",
+    "langgraph",
+    "langchain",
+    "transformersjs",
+    "ollama",
+    "onnx",
+    "resend",
+    "supabase",
+    "stripe",
+    "slack",
+    "notion",
+    "mcp",
+    "sklearn",
+    "pytorch",
+    "tensorflow",
+    "huggingface",
+    "vercel-ai",
+    "openai",
+    "anthropic",
+    "gemini"
+  ]
+}
